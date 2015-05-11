@@ -4900,8 +4900,8 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   vertical-align: baseline;
   border-radius: .25em;
 }
-a.label:hover,
-a.label:focus {
+.label:hover,
+.label:focus {
   color: #fff;
   text-decoration: none;
   cursor: pointer;
